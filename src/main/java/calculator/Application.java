@@ -15,7 +15,7 @@ public class Application {
         System.out.println(text);
         List<String> splittedString = splitText(text);
         int sum = addNums(splittedString);
-        System.out.println("결과: " + sum);
+        System.out.println("결과 : " + sum);
 
 
     }
